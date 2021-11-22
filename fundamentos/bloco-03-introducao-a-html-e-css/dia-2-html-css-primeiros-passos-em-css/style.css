@@ -1,0 +1,29 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+#fundoLista {
+    background-color: aquamarine;
+    font-style: italic;
+    text-align: center;
+}
+
+.fundoPeLista {
+    background-color: rgb(1, 78, 92);
+}
+
+#amarelo {
+    background-color: yellow;
+}
+#vermelho {
+    background-color: red;
+}
+#marrom {
+    background-color: rgb(100, 45, 0);
+}

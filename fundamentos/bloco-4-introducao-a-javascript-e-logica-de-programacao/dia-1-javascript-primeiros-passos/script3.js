@@ -1,11 +1,11 @@
-const a = 17;
-const b = 77;
-const c = 27;
+const num1 = 17;
+const num2 = 77;
+const num3 = 27;
 
-if (a > b && a > c) {
-  console.log('O número maior é ' + a);
-} else if (b > a && b > c) {
-  console.log('O número maior é ' + b);
+if (num1 > num2 && num1 > num3) {
+  console.log('O número maior é ' + num1);
+} else if (num2 > num1 && num2 > num3) {
+  console.log('O número maior é ' + num2);
 } else {
-  console.log('O número maior é ' + c);
+  console.log('O número maior é ' + num3);
 };

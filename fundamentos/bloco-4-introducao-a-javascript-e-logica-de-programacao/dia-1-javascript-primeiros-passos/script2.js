@@ -1,8 +1,8 @@
-const a = 77;
-const b = 25;
+const num1 = 77;
+const num2 = 25;
 
-if (a > b) {
-    console.log(a);
+if (num1 > num2) {
+    console.log("O maior número é " + num1);
   } else {
-    console.log(b);
+    console.log("O maior número é " + num2);
   };

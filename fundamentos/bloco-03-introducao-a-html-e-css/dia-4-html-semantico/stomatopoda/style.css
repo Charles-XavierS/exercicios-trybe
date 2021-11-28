@@ -9,7 +9,7 @@ body {
     object-fit: cover;
     padding: 0px;
     margin: 0px;
-    filter: grayscale(70%) 
+    filter: grayscale(80%) 
     blur(3px);
     transition: 0.80s;
 }

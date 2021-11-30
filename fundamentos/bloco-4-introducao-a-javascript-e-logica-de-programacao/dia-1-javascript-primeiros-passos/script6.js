@@ -5,7 +5,7 @@ switch (pecaXadrez.toLowerCase()) {
         console.log("O Peão, no começo do jogo, pode avançar duas casas a frente. Nas demais jogadas, somente uma a frente.");
         break;
     case "cavalo":
-        console.log("O Cavalo, anda 3 casas sempre em L, podendo passar por cima das demais peças.");
+        console.log("O Cavalo, anda sempre em L, 2 casas horizontal e 1 casa na vertical ou 2 casas na vertical e 1 na horizontal, sendo a única peça podendo passar por cima das demais.");
         break;
     case "rei":
         console.log("O Rei, anda somente uma casa em qualquer direção.");

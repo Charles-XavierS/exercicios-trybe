@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.ladoA {
+  text-align: justify;
+  display: inline-block;
+  margin: 5px;
+  height: 500px;
+  width: 500px;
+  padding: 15px;
+}
+
+.ladoB {
+  text-align: justify;
+  display: inline-block;
+  margin: 5px;
+  height: 500px;
+  width: 600px;
+  padding: 15px;
+}
